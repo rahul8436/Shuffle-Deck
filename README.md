@@ -1,9 +1,16 @@
-# Getting Started with Create React App
+## How To Run This Application On Your Local
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+First of all , you need to clone this repo
 
-## Available Scripts
+### `git clone https://github.com/rahul8436/Shuffle-Deck.git`
 
+
+Prerequisites: Node.js 15+ , NPM 6+ and a text editor like Visual Studio Code.
+
+1. Install NPM packages: `npm install` [This will install all the dependencies for the application]
+
+
+2. To run the application, open a terminal in the folder where you cloned the code and run:
 In the project directory, you can run:
 
 ### `npm start`
@@ -14,10 +21,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
