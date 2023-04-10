@@ -7,7 +7,8 @@ First of all , you need to clone this repo
 `git clone https://github.com/rahul8436/Shuffle-Deck.git`
 
 
-1. Install NPM packages: `npm install` [This will install all the dependencies for the application]
+1. Install NPM packages: To install packages , open a terminal in the folder where you cloned the code and run:
+`npm install` [This will install all the dependencies for the application]
 
 
 2. To run the application, open a terminal in the folder where you cloned the code and run:
