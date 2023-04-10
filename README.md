@@ -1,11 +1,11 @@
 ## How To Run This Application On Your Local
+Prerequisites: Node.js 15+ , NPM 6+ and a text editor like Visual Studio Code.
+
 
 First of all , you need to clone this repo
 
-### `git clone https://github.com/rahul8436/Shuffle-Deck.git`
+`git clone https://github.com/rahul8436/Shuffle-Deck.git`
 
-
-Prerequisites: Node.js 15+ , NPM 6+ and a text editor like Visual Studio Code.
 
 1. Install NPM packages: `npm install` [This will install all the dependencies for the application]
 
